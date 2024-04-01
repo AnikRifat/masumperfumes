@@ -1,0 +1,20 @@
+[30-Jan-2024 08:09:55 UTC] PHP Warning:  Use of undefined constant THEME_URL - assumed 'THEME_URL' (this will throw an Error in a future version of PHP) in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 2
+[30-Jan-2024 08:09:55 UTC] PHP Notice:  Undefined variable: theme in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 2
+[30-Jan-2024 08:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 10
+[30-Jan-2024 08:09:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/header.php on line 2
+[03-Mar-2024 09:20:09 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/header.php on line 2
+[03-Mar-2024 09:20:13 UTC] PHP Warning:  Use of undefined constant THEME_URL - assumed 'THEME_URL' (this will throw an Error in a future version of PHP) in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 2
+[03-Mar-2024 09:20:13 UTC] PHP Notice:  Undefined variable: theme in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 2
+[03-Mar-2024 09:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function display() in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/include/footer.php on line 10

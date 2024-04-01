@@ -1,0 +1,3 @@
+[03-Mar-2024 09:25:37 UTC] PHP Notice:  Undefined variable: assembled_product_id in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/components/assembly_details_js.php on line 2
+[03-Mar-2024 09:25:37 UTC] PHP Notice:  Undefined variable: assembled_product_id in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/components/assembly_details_js.php on line 7
+[03-Mar-2024 09:25:37 UTC] PHP Notice:  Undefined variable: assembled_product_id in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/components/assembly_details_js.php on line 9

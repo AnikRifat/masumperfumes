@@ -1,0 +1,12 @@
+[03-Mar-2024 09:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_2.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_2.php on line 5
+[03-Mar-2024 09:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_1.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_1.php on line 5
+[03-Mar-2024 09:25:46 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_best_seller.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/masuicdg/public_html/application/modules/web/views/themes/zaima/blocks/block_best_seller.php on line 69

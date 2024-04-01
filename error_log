@@ -1,0 +1,14 @@
+[15-Jan-2024 08:50:56 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/masuicdg/public_html/index.php on line 226
+[15-Jan-2024 08:50:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/masuicdg/public_html/index.php on line 226
+[15-Jan-2024 08:50:56 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/masuicdg/public_html/index.php on line 226
+[15-Jan-2024 08:50:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/masuicdg/public_html/index.php on line 226
+[07-Feb-2024 14:33:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[13-Feb-2024 01:56:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 03:24:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 03:25:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 03:25:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 03:25:04 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 03:25:05 UTC] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[15-Feb-2024 10:31:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[18-Feb-2024 03:05:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
+[13-Mar-2024 12:44:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/masuicdg/public_html/index.php on line 226
